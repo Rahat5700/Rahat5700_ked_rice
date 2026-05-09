@@ -1,37 +1,64 @@
-All credits go to the original creators — I only arranged and combined them.
-<img width="1920" height="1080" alt="Screenshot_২০২৬০৫০৯_১১২০২৪-1" src="https://github.com/user-attachments/assets/e39214c4-46e5-4059-9371-c716fe11e9e1" />
+> All credits go to the original creators — I only arranged and combined them.
 
-1st you need to install
-CatppuccinMacchiatoLavender
-```bash
-https://github.com/orangci/walls-catppuccin-mocha/tree/master
-```
-```bash
-https://github.com/catppuccin/catppuccin
-```
-#Then you need to install the icon pack
-You can download the file from my GitHub
+<img width="1920" height="1080" alt="Desktop Preview" src="https://github.com/user-attachments/assets/e39214c4-46e5-4059-9371-c716fe11e9e1" />
+
+---
+
+## Requirements
+
+Before getting started, install the **Catppuccin Macchiato Lavender** theme from the following sources:
+
+- https://github.com/orangci/walls-catppuccin-mocha/tree/master
+- https://github.com/catppuccin/catppuccin
+
+---
+
+## Installation
+
+### Icon Pack
+
+Download the icon pack from my GitHub and install it:
+
 **[gruvbox-plus-icon-pack.6.4.0.tar.gz]**
 
-#For the panel clock 
-You need to download the widget from my GitHub
+### Panel Clock Widget
+
+Download the widget from my GitHub and install it:
+
 **[local-utc-time-widget.plasmoid]**
 
-#I have some simple shortcut 
-**[shortcut pro.kksrc]**
+### Shortcuts
 
-#For better tiling you need to change some settings
+Import the shortcut profile:
+
+**[shortcut-pro.kksrc]**
+
+---
+
+## Tiling Manager Configuration
+
+To prevent KWin from conflicting with your tiling manager, run the following commands:
+
 ```bash
 # 1. Disable the "Scale" and "Maximize" animations (the main cause of flickering)
 kwriteconfig6 --file kwinrc --group Plugins --key scaleEnabled false
 kwriteconfig6 --file kwinrc --group Plugins --key maximizeEnabled false
+
 # 2. Set Window Placement to "No Placement"
 # This stops KWin from trying to position the window before your Tiling Manager takes over.
 kwriteconfig6 --file kwinrc --group Windows --key Placement 0
+
 # 3. Prevent KWin from remembering and restoring old window sizes
 kwriteconfig6 --file kwinrc --group Windows --key GeometryRestore false
+
 # 4. Tell KWin to reload the configuration immediately
 qdbus6 org.kde.KWin /KWin reconfigure
+
 echo "Done! KDE should now stop fighting your tiling manager."
 ```
-I will give a video which will show my rest of the settings
+
+---
+
+## Additional Settings
+
+A video walkthrough covering the remaining settings will be provided soon.
