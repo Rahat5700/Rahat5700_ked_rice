@@ -6,5 +6,9 @@ CatppuccinMacchiatoLavender
 
 ```bash
 https://github.com/orangci/walls-catppuccin-mocha/tree/master
-
+```
 ```bash
+https://github.com/catppuccin/catppuccin
+```
+
+
