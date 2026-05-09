@@ -3,7 +3,6 @@
 <img width="1920" height="1080" alt="Desktop Preview" src="https://github.com/user-attachments/assets/e39214c4-46e5-4059-9371-c716fe11e9e1" />
 
 ---
-
 ## Requirements
 
 Before getting started, install the **Catppuccin Macchiato Lavender** theme from the following the code:
@@ -16,7 +15,6 @@ Before getting started, install the **Catppuccin Macchiato Lavender** theme from
 ```
 
 ---
-
 ## Installation
 
 ### Icon Pack
