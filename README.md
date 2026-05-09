@@ -6,10 +6,14 @@
 
 ## Requirements
 
-Before getting started, install the **Catppuccin Macchiato Lavender** theme from the following sources:
+Before getting started, install the **Catppuccin Macchiato Lavender** theme from the following the code:
 
-- https://github.com/orangci/walls-catppuccin-mocha/tree/master
-- https://github.com/catppuccin/catppuccin
+```bash
+ https://github.com/orangci/walls-catppuccin-mocha/tree/master
+```
+```bash
+ https://github.com/catppuccin/catppuccin
+```
 
 ---
 
@@ -17,19 +21,19 @@ Before getting started, install the **Catppuccin Macchiato Lavender** theme from
 
 ### Icon Pack
 
-Download the icon pack from my GitHub and install it:
+- Download the icon pack from my GitHub and install it:
 
 **[gruvbox-plus-icon-pack.6.4.0.tar.gz]**
 
 ### Panel Clock Widget
 
-Download the widget from my GitHub and install it:
+- Download the widget from my GitHub and install it:
 
 **[local-utc-time-widget.plasmoid]**
 
 ### Shortcuts
 
-Import the shortcut profile:
+- Import the shortcut profile:
 
 **[shortcut-pro.kksrc]**
 
