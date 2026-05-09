@@ -4,9 +4,6 @@ All credits go to the original creators — I only arranged and combined them.
 
 1st you need to install
 CatppuccinMacchiatoLavender
-#then you need to install the icon pack
-you can download the file from my GitHub
-gruvbox-plus-icon-pack.6.4.0.tar.gz
 
 ```bash
 https://github.com/orangci/walls-catppuccin-mocha/tree/master
@@ -18,16 +15,16 @@ https://github.com/catppuccin/catppuccin
 #then you need to install the icon pack
 you can downlode the file from my git hub
 
-**gruvbox-plus-icon-pack.6.4.0.tar.gz**
+**[gruvbox-plus-icon-pack.6.4.0.tar.gz]**
 
 #for the panel clock 
 you need to downlode the widget from my github
 
-**local-utc-time-widget.plasmoid**
+**[local-utc-time-widget.plasmoid]**
 
 #i have some simple shortcut 
 
-**shortcut pro.kksrc**
+**[shortcut pro.kksrc]**
 
 #for better tiling you need to chang some settings
 
