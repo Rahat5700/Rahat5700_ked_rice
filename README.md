@@ -14,6 +14,13 @@ Before getting started, install the **Catppuccin Macchiato Lavender** theme from
  https://github.com/catppuccin/catppuccin
 ```
 
+emptySession
+```bash
+kwriteconfig6 --file ksmserverrc --group General --key loginMode emptySession
+```
+
+
+
 ---
 ## Installation
 
