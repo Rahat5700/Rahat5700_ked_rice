@@ -14,9 +14,16 @@ Before getting started, install the **Catppuccin Macchiato Lavender** theme from
  https://github.com/catppuccin/catppuccin
 ```
 
-emptySession
+### emptySession
 ```bash
 kwriteconfig6 --file ksmserverrc --group General --key loginMode emptySession
+```
+### virtual desktop
+You can tell KDE's window manager (KWin) to stop letting applications switch your virtual desktop automatically.
+```besh
+kwriteconfig6 --file kwinrc --group Windows --key SeparateWidgets true
+kwriteconfig6 --file kwinrc --group Windows --key FocusStealingPreventionLevel 3
+qdbus6 org.kde.KWin /KWin reconfigure
 ```
 
 
