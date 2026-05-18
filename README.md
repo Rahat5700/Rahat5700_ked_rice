@@ -13,6 +13,9 @@ Before getting started, install the **Catppuccin Macchiato Lavender** theme from
 ```bash
  https://github.com/catppuccin/catppuccin
 ```
+Then you have to install it
+
+[klassy](https://github.com/paulmcauley/klassy)
 
 ### emptySession
 ```bash
