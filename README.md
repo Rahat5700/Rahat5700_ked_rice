@@ -1,6 +1,10 @@
 > All credits go to the original creators — I only arranged and combined them.
 
-<img width="1920" height="1080" alt="Desktop Preview" src="https://github.com/user-attachments/assets/e39214c4-46e5-4059-9371-c716fe11e9e1" />
+ <img width="1920" height="1080" alt="Screenshot_২০২৬০৫২৬_০৯২৯৩১" src="https://github.com/user-attachments/assets/f74c7998-37ff-441e-8f3e-cb42d7800077" />
+
+
+<img width="1920" height="1080" alt="Screenshot_২০২৬০৫২৬_০৯২৮২৬" src="https://github.com/user-attachments/assets/49924ef5-7fa6-4d41-a418-7253642edd8f" />
+
 
 ---
 ## Requirements
