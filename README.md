@@ -84,4 +84,6 @@ echo "Done! KDE should now stop fighting your tiling manager."
 
 ## Additional Settings
 
-A video walkthrough covering the remaining settings will be provided soon.
+A video walkthrough covering the remaining settings will be on YouTube.
+
+[YouTube](https://youtu.be/wOFE8J4OcW0)
